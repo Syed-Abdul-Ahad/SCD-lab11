@@ -8,3 +8,5 @@ let skills = ['Passionate teacher','Software Engineer','FullStack developer']
 skills.forEach((item)=>{
     console.log('Syed Abdul Ahad is a',item)
 })
+
+console.log("GoodBye world")
